@@ -1,0 +1,320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-04 16:34+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:75 functions.php:83 functions.php:105 functions.php:126
+msgid "Box Shadow"
+msgstr ""
+
+#: functions.php:90 functions.php:112 functions.php:133
+msgid "Box Shadow Medium"
+msgstr ""
+
+#: functions.php:97 functions.php:140
+msgid "Box Shadow Large"
+msgstr ""
+
+#: functions.php:119
+msgid "Box Shadow Larger"
+msgstr ""
+
+#: functions.php:147 functions.php:154 functions.php:162 functions.php:170
+msgid "Box Shadow on Hover"
+msgstr ""
+
+#: functions.php:179
+msgid "Secondary"
+msgstr ""
+
+#: inc/admin/info.php:37
+msgid " Info"
+msgstr ""
+
+#: inc/admin/info.php:45
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/admin/info.php:127
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/admin/info.php:130
+msgid "Gigantic Pro offers more features and enhances your experience!"
+msgstr ""
+
+#: inc/admin/info.php:137
+msgid "Buy Now"
+msgstr ""
+
+#: patterns/construction-about.php:14
+msgid "Expert Modern Construction Service and Solutions"
+msgstr ""
+
+#: patterns/construction-about.php:18
+msgid ""
+"Unde consequatur ducimus nullam. Sem viverra sint class est laoreet posuere! "
+"Velit quam hymenaeos perspiciatis, netus! Hic rerum cumque."
+msgstr ""
+
+#: patterns/construction-about.php:28 patterns/construction-about.php:38
+msgid "Unde consequatur ducimus nullam"
+msgstr ""
+
+#: patterns/construction-about.php:52
+msgid "+92 666 888 0000"
+msgstr ""
+
+#: patterns/construction-about.php:56
+msgid "Need Help?"
+msgstr ""
+
+#: patterns/construction-about.php:70
+msgid "Benjamin Miller"
+msgstr ""
+
+#: patterns/construction-about.php:74
+msgid "Marketing Manager"
+msgstr ""
+
+#: patterns/construction-about.php:97
+msgid "25+"
+msgstr ""
+
+#: patterns/construction-about.php:101
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/construction-about.php:107
+msgid ""
+"Fames veniam tempus possimus potenti animi earum voluptatibus fugit et? Sit "
+"et. Velit ut aliqua."
+msgstr ""
+
+#: patterns/construction-about.php:112
+msgid "Book a consultation"
+msgstr ""
+
+#: patterns/construction-counter.php:19
+msgid "10k+"
+msgstr ""
+
+#: patterns/construction-counter.php:23
+msgid "Completed Project"
+msgstr ""
+
+#: patterns/construction-counter.php:35
+msgid "90k+"
+msgstr ""
+
+#: patterns/construction-counter.php:39
+msgid "Experience Team"
+msgstr ""
+
+#: patterns/construction-counter.php:51
+msgid "97%"
+msgstr ""
+
+#: patterns/construction-counter.php:55
+msgid "Approval Rate"
+msgstr ""
+
+#: patterns/construction-counter.php:67
+msgid "800"
+msgstr ""
+
+#: patterns/construction-counter.php:71
+msgid "Active Project"
+msgstr ""
+
+#: patterns/construction-gallery.php:17
+msgid "Our Project Excellence"
+msgstr ""
+
+#: patterns/construction-gallery.php:30
+msgid "Urban Nest Project"
+msgstr ""
+
+#: patterns/construction-gallery.php:36
+msgid "Solid Foundation"
+msgstr ""
+
+#: patterns/construction-gallery.php:44
+msgid "Unnayan Infrastructure"
+msgstr ""
+
+#: patterns/construction-gallery.php:50
+msgid "Eco Build Initiative"
+msgstr ""
+
+#: patterns/construction-gallery.php:58
+msgid "Integrity Build"
+msgstr ""
+
+#: patterns/construction-gallery.php:64
+msgid "Shapla Housing"
+msgstr ""
+
+#: patterns/construction-hero-banner.php:14
+msgid "Built With Strength & Precision"
+msgstr ""
+
+#: patterns/construction-hero-banner.php:18
+msgid ""
+"Donec sed odio dui. Sed posuere consectetur est at lobortis. Praesent "
+"commodo cursus magna, vel scelerisque nis."
+msgstr ""
+
+#: patterns/construction-hero-banner.php:23
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/construction-hero-banner.php:27
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/construction-lastest-posts.php:17
+msgid "Featured News and Insights"
+msgstr ""
+
+#: patterns/construction-services.php:19
+msgid "Quality Workmanship"
+msgstr ""
+
+#: patterns/construction-services.php:24 patterns/construction-services.php:48
+#: patterns/construction-services.php:72
+msgid ""
+"Provide our people with a meaningful experience that helps and guide growth."
+msgstr ""
+
+#: patterns/construction-services.php:29 patterns/construction-services.php:53
+#: patterns/construction-services.php:77
+msgid "Read More"
+msgstr ""
+
+#: patterns/construction-services.php:43 patterns/footer.php:64
+msgid "Project Management"
+msgstr ""
+
+#: patterns/construction-services.php:67
+msgid "Safety & Compliance"
+msgstr ""
+
+#: patterns/footer.php:13
+msgid "About Company"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium aliquet, fames quo."
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Industries"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "Residential"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "Commercial"
+msgstr ""
+
+#: patterns/footer.php:36
+msgid "Industrial"
+msgstr ""
+
+#: patterns/footer.php:40
+msgid "Civil Works"
+msgstr ""
+
+#: patterns/footer.php:47
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "General Contracting"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Planning, Design & Build"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "Renovation & Modeling"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "Contact info"
+msgstr ""
+
+#: patterns/footer.php:76
+msgid "Jl. Niti Mandala Renon No.88, Denpasar, Bali – 80239"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "Phone : (316) 212-3456, Email : xyz@example.com"
+msgstr ""
+
+#: patterns/footer.php:85
+msgid "Follow Us On:"
+msgstr ""
+
+#: patterns/footer.php:104
+msgid ""
+"Copyright @ 2026 All rights reserved. Theme Gigantic Construction by Kortez "
+"Themes."
+msgstr ""
+
+#: patterns/header.php:26
+msgid "GET STARTED"
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-search.php:27
+msgid "."
+msgstr ""
+
+#: patterns/template-search.php:45
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""

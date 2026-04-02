@@ -25,6 +25,11 @@ body.editor-styles-wrapper .wp-site-blocks > * {
   	margin-block-start: 0;
 }
 
+header {
+  position: absolute;
+  width: 100%;
+}
+
 /* Support Alignfull */
 body {
   	overflow-x: hidden;

@@ -33,6 +33,7 @@ header {
 /* Support Alignfull */
 body {
   	overflow-x: hidden;
+    font-size: 16px;
 }
 .entry-content .alignfull {
 	margin-left: calc( -50vw + 50%);
@@ -199,4 +200,12 @@ div.is-style-sb-button-secondary .wp-element-button:active {
     .wp-block-navigation ul.wp-block-navigation-submenu li:last-child {
         border: none;
     }
+}
+
+
+/* About Us */
+@media screen and (min-width: 600px){
+  .about-vm .wp-block-media-text .wp-block-media-text__content {
+    min-height: 700px;  
+  }
 }

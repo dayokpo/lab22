@@ -211,16 +211,6 @@ div.is-style-sb-button-secondary .wp-element-button:active {
 }
 
 /* BIM Services */
-.bim-services .wp-block-columns {
-  text-align: center;
-  align-items: center;
-}
-
-.bim-services .wp-block-columns img {
-  text-align: center;
-  align-items: center;
-}
-
 .bim-services .wp-block-columns .wp-block-image {
   display: flex;
   flex-direction: column;

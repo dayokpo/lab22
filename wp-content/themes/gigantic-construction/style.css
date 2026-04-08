@@ -209,3 +209,27 @@ div.is-style-sb-button-secondary .wp-element-button:active {
     min-height: 700px;  
   }
 }
+
+/* BIM Services */
+.bim-services .wp-block-columns {
+  text-align: center;
+  align-items: center;
+}
+
+.bim-services .wp-block-columns img {
+  text-align: center;
+  align-items: center;
+}
+
+.bim-services .wp-block-columns .wp-block-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bim-services .wp-block-columns .wp-block-image img{
+  height: 250px;
+  width: auto;
+  margin-bottom: 25px;
+}

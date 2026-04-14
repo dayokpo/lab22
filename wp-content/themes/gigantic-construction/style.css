@@ -61,6 +61,10 @@ body.editor-styles-wrapper .wp-site-blocks > * {
   visibility: hidden;
 }
 
+.home footer figure {
+  display: none;
+}
+
 header {
   position: absolute;
   width: 100%;
@@ -71,6 +75,14 @@ header nav ul li a {
 }
 
 h2, h3, h4 {
+  font-family: 'BankGothic', sans-serif;
+}
+
+.home h2 {
+  margin-top: -25px;
+}
+
+.home h2 strong {
   font-family: 'BankGothic', sans-serif;
 }
 

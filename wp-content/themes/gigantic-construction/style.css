@@ -17,6 +17,38 @@ Gigantic Construction WordPress Theme, Copyright 2026 kortezthemes
 Gigantic Construction is distributed under the terms of the GNU General Public License v3
 */
 
+@font-face {
+  font-family: 'Aptos';
+  src: url('assets/fonts/Aptos/Aptos.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aptos';
+  src: url('assets/fonts/Aptos/Aptos-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aptos';
+  src: url('assets/fonts/Aptos/Aptos-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BankGothic';
+  src: url('assets/fonts/BankGothic/BankGothic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* Reset Default Blocks Gap */
 body.editor-styles-wrapper .wp-site-blocks > * {
   	margin-block-start: 0;
@@ -34,9 +66,18 @@ header {
   width: 100%;
 }
 
+header nav ul li a {
+  font-family: 'BankGothic', sans-serif;
+}
+
+h2 {
+  font-family: 'BankGothic', sans-serif;
+}
+
 /* Support Alignfull */
 body {
   	overflow-x: hidden;
+    font-family: Aptos, 'Segoe UI', sans-serif;
     font-size: 16px;
 }
 .entry-content .alignfull {

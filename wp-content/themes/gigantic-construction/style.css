@@ -74,7 +74,9 @@ h2, h3, h4 {
   font-family: 'BankGothic', sans-serif;
 }
 
-
+footer div {
+  background: #000 !important;
+}
 
 /* Support Alignfull */
 body {

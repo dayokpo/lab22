@@ -70,9 +70,11 @@ header nav ul li a {
   font-family: 'BankGothic', sans-serif;
 }
 
-h2 {
+h2, h3, h4 {
   font-family: 'BankGothic', sans-serif;
 }
+
+
 
 /* Support Alignfull */
 body {

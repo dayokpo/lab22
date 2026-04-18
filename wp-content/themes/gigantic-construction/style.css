@@ -267,7 +267,10 @@ div.is-style-sb-button-secondary .wp-element-button:active {
     .wp-block-navigation ul.wp-block-navigation-submenu li:last-child {
         border: none;
     }
+}
 
+/* Navigation */
+@media screen and (max-width: 600px){
     .wp-block-cover .wp-block-cover__video-background {
       height: 150vh;
       top: -20vh;

@@ -272,8 +272,8 @@ div.is-style-sb-button-secondary .wp-element-button:active {
 /* Navigation */
 @media screen and (max-width: 600px){
     .wp-block-cover .wp-block-cover__video-background {
-      height: 150vh;
-      top: -20vh;
+      height: 150vh !important;
+      top: -20vh !important;
     }
 
     input {

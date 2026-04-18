@@ -267,6 +267,19 @@ div.is-style-sb-button-secondary .wp-element-button:active {
     .wp-block-navigation ul.wp-block-navigation-submenu li:last-child {
         border: none;
     }
+
+    .wp-block-cover .wp-block-cover__video-background {
+      height: 150vh;
+      top: -20vh;
+    }
+
+    input {
+      width: 80;
+    }
+
+    .contact-group {
+      max-width: 80% !important;
+    }
 }
 
 footer div {

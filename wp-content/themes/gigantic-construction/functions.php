@@ -50,6 +50,7 @@ function gigantic_construction_scripts() {
 
 	// Register theme stylesheet.
 	wp_enqueue_style( 'gigantic-construction-styles', get_theme_file_uri( '/style.css' ), array(), $theme_version );
+	wp_enqueue_script( 'gigantic-construction-sticky-header', get_theme_file_uri( '/assets/js/sticky-header.js' ), array(), $theme_version, true );
 }
 add_action( 'wp_enqueue_scripts', 'gigantic_construction_scripts' );
 

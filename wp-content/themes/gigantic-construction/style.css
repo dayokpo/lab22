@@ -70,6 +70,14 @@ header {
   width: 100%;
 }
 
+header.is-sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background: #fff;
+}
+
 header nav ul li a {
   font-family: 'BankGothic', sans-serif;
 }
